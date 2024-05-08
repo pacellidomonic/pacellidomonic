@@ -37,13 +37,13 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 ### Environments, Testing, Other:
 
 | Git | Virtual Box |
-|----------|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>|
 
 
-### OS: ❤️ (linux one love)
+### OS:
 
-| Linux | Ubuntu | 
+| Linux | Ubuntu | Windows
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
