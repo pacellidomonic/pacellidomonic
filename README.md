@@ -13,7 +13,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 ### Languages:
 | Python3 | CSS | HTML5 | C# |
 |----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/Csharp-original.svg" title="CSHARP" alt="CSHARP" width="55" height="55"/>|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSHARP" alt="CSHARP" width="55" height="55"/>|
 
   
 
