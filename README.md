@@ -32,13 +32,13 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="MySQL" width="55" height="55"/>
 
 
-
   
 ### Environments, Testing, Other:
 
 | Git | Virtual Box |
 |----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>|
+
 
 
 ### OS:
@@ -50,10 +50,5 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 ---
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
-
-
-### How to reach me :mailbox:
+### How to reach me :mailbox: domonic.pacelli@outlook.com
