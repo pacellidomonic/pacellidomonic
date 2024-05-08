@@ -11,9 +11,9 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 <div>
 
 ### Languages:
-| Python3 | CSS | HTML | C# |
+| Python3 | CSS | HTML5 | C# |
 |----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html/html-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/C#/C#-original.svg" title="C#" alt="C#" width="55" height="55"/>|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/C#/C#-original.svg" title="C#" alt="C#" width="55" height="55"/>|
 
   
 
