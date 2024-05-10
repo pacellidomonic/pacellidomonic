@@ -49,4 +49,5 @@ Finishing my portfolio website and data analysis projects.
 ---
 
 
-### How to reach me :mailbox: domonic.pacelli@outlook.com
+### How to reach me :mailbox: 
+domonic.pacelli@outlook.com
